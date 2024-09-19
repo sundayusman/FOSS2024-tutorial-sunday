@@ -1,11 +1,11 @@
-site_name: Name of your website
-site_description: Tell people what this website is about
-site_author: Who you are
-site_url: 'https://foss.cyverse.org'
+site_name: Sunday Usman FOSS 24 Tutorial
+site_description: This is for learning process
+site_author: Sunday Usman
+site_url: 'https://sundayusman.github.io/FOSS2024-tutorial-sunday/'
 
 # Repository
-repo_name: The repository name
-repo_url: 'https://github.com/CyVerse-learning-materials/foss'
+repo_name: FOSS24 Tutorial Sunday
+repo_url: 'https://github.com/sundayusman/FOSS2024-tutorial-sunday'
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
@@ -51,6 +51,8 @@ icon:
 # Page tree
 nav:
 - Home: index.md
+- CV
+- Dmp.md
 
 # Extra Plugins
 plugins:
