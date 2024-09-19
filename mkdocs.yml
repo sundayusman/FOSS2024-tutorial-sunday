@@ -51,7 +51,6 @@ icon:
 # Page tree
 nav:
 - Home: index.md
-- CV: 
 - DMP: dmp.md
 
 # Extra Plugins
