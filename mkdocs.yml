@@ -1,5 +1,5 @@
-site_name: Sunday Usman FOSS 24 Tutorial
-site_description: This is for learning process
+site_name: Sunday Usman 
+site_description: This is my website.
 site_author: Sunday Usman
 site_url: 'https://sundayusman.github.io/FOSS2024-tutorial-sunday/'
 
@@ -12,22 +12,28 @@ copyright: 'Copyright &copy; 2023 - 2024'
 
 # Configuration
 theme:
-    name: material
-highlightjs: true
-font:
+  name: material
+  highlightjs: true
+  font:
     text: Roboto
     code: Regular
-palette:
+  palette:
     scheme: default
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs  # Enables horizontal tabs at the top
+    - navigation.tabs.sticky  # Makes the tabs stay at the top when scrolling
+    - navigation.indexes
+    - navigation.top
+  icon:
+    logo: material/cogs
+    favicon: material/cogs
 
 # Features  
 features:
 - navigation.instant
 - navigation.tracking
-- navigation.tabs
-- navigation.tabs.sticky
-- navigation.indexes
-- navigation.top
 - toc.follow
 
 # 404 page
@@ -39,7 +45,6 @@ include_search_page: false
 search_index_only: true
 
 # Palette and theme (uses personalized colours)
-language: en
 palette:
     primary: teal
     accent: orange
@@ -52,14 +57,10 @@ palette:
           name: Light mode
         - icon: material/weather-night
           name: Dark mode
-icon:
-    logo: material/cogs
-    favicon: material/cogs
 
-# Page tree
+# Page tree (Navigation bar at the top)
 nav:
 - Home: index.md
-- DMP: dmp.md
 - Publications: publications.md
 - Presentations: presentations.md
 - Interviews: interviews.md
