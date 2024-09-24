@@ -10,7 +10,6 @@ edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
 
-
 # Configuration
 theme:
     name: material
@@ -42,8 +41,17 @@ search_index_only: true
 # Palette and theme (uses personalized colours)
 language: en
 palette:
-    primary: custom
-    accent: custom
+    primary: teal
+    accent: orange
+    scheme: slate
+    toggle:
+        icon: material/weather-night
+        name: Switch mode
+    toggles:
+        - icon: material/weather-sunny
+          name: Light mode
+        - icon: material/weather-night
+          name: Dark mode
 icon:
     logo: material/cogs
     favicon: material/cogs
@@ -52,6 +60,13 @@ icon:
 nav:
 - Home: index.md
 - DMP: dmp.md
+- Publications: publications.md
+- Presentations: presentations.md
+- Interviews: interviews.md
+- Skills & Experience: skills.md
+- Portfolio: portfolio.md
+- Testimonials: testimonials.md
+- Contact: contact.md
 
 # Extra Plugins
 plugins:
