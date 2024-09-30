@@ -119,3 +119,7 @@ markdown_extensions:
 - pymdownx.tasklist:
     custom_checkbox: true
 - pymdownx.tilde
+
+# Custom CSS for text justification
+extra_css:
+  - assets/css/style.css
