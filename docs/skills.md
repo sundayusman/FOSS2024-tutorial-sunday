@@ -1,7 +1,6 @@
 # Skills & Experience
 
 ## Technical Skills:
-- Environmental Health Science
 - Lifecycle Assessment (LCA)
 - Geographic Information System (GIS)
 - Techno-economic analysis of rare earth metals
@@ -9,5 +8,4 @@
 - Waste conversion to energy
 
 ## Experience:
-- Fashion Entrepreneur at Seaside, Ibadan
-- PhD Researcher in Environmental Science
+- Researcher Assistant for over 3 years
