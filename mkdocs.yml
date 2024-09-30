@@ -1,4 +1,4 @@
-site_name: Sunday Usman 
+site_name: Sunday Usman
 site_description: This is my website.
 site_author: Sunday Usman
 site_url: 'https://sundayusman.github.io/FOSS2024-tutorial-sunday/'
@@ -7,6 +7,7 @@ site_url: 'https://sundayusman.github.io/FOSS2024-tutorial-sunday/'
 repo_name: FOSS24 Tutorial Sunday
 repo_url: 'https://github.com/sundayusman/FOSS2024-tutorial-sunday'
 edit_uri: edit/main/docs/
+
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
 
