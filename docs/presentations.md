@@ -1,5 +1,4 @@
-## <span style="color: black;">**Presentations**</span>  <!-- black -->
-<hr> <!-- This adds a horizontal line -->
+**Presentations**
 
 Here are some of the notable presentations I have delivered:
 
