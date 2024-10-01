@@ -1,5 +1,4 @@
-## <span style="color: black;">**Interviews**</span>  <!-- black -->
-<hr> <!-- This adds a horizontal line -->
+**Interviews**
 
 I have been featured in the following interviews:
 
