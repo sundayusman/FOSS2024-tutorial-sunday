@@ -1,10 +1,7 @@
 ## <span style="color: black;">**Publications**</span>  <!-- black -->
-<hr> <!-- This adds a horizontal line -->
 
 You can view my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=pcMH0J0AAAAJ&hl=en).
-
-## <span style="color: black;">**Selected Publications**</span>  <!-- black -->
-<hr> <!-- This adds a horizontal line -->
+**Selected Publications**
 - Smart waste management: A paradigm shift enabled by artificial intelligence *Waste Management Bulletin* (2024)
 - Sustainable and Energy-Efficient Production of Rare-Earth Metals via Chloride-Based Molten Salt Electrolysis *ACS Sustainable Chemistry & Engineering* (2024)
 - Leveraging artificial intelligence in vaccine development: A narrative review *Journal of Microbiological Methods* (2024)
