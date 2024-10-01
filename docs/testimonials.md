@@ -1,4 +1,5 @@
-# Testimonials
+## <span style="color: black;">**Testimonials**</span>  <!-- black -->
+<hr> <!-- This adds a horizontal line -->
 
 Here are some testimonials from my colleagues and supervisors:
 
