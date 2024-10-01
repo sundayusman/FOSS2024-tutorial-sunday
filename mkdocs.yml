@@ -47,7 +47,7 @@ search_index_only: true
 
 # Palette and theme (uses personalized colours)
 palette:
-    primary: teal
+    primary: green
     accent: orange
     scheme: slate
     toggle:
