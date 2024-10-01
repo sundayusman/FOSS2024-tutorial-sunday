@@ -1,4 +1,4 @@
-## <span style="color: green;">**Welcome to My Website**</span>  <!-- green -->
+## <span style="color: black;">Welcome to My Website</span>  <!-- black -->
 
 ![Profile Image](assets/images/profile-picture.jpg)
 
