@@ -27,15 +27,10 @@ theme:
     - navigation.tabs.sticky  # Makes the tabs stay at the top when scrolling
     - navigation.indexes
     - navigation.top
+
   icon:
     logo: material/cogs
     favicon: material/cogs
-
-# Features  
-features:
-- navigation.instant
-- navigation.tracking
-- toc.follow
 
 # 404 page
 static_templates:
@@ -120,6 +115,3 @@ markdown_extensions:
     custom_checkbox: true
 - pymdownx.tilde
 
-# Custom CSS for text justification
-extra_css:
-  - assets/css/style.css
