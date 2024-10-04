@@ -1,5 +1,3 @@
-# Contact
-
 You can reach me at:
 
 - **Email**: [sundayusman29@gmail.com](mailto:sundayusman29@gmail.com)
