@@ -1,5 +1,3 @@
-## <span style="color: black;">Welcome to My Website</span>  <!-- black -->
-
 ![Profile Image](assets/images/profile-picture.jpg)
 
 ## <span style="color: green;">**About Me**</span>  <!-- green -->
