@@ -1,5 +1,3 @@
-**Interviews**
-
 I have been featured in the following interviews:
 
 - **First Outstanding Ph.D. Nigerian Student**  
