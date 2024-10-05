@@ -10,7 +10,7 @@ Here are some of the notable presentations I have delivered:
 - **Event**: Critical Material Innovation Hub Conference, Colorado, USA
 - **Presentation Type**: Oral Presentation
 - **Date**: April 2024
-- **Authors**: Sunday Usman
+- **Author**: Sunday Usman
 ---
 - **Title**: Life Cycle Assessment, Techno-economic Analysis, and Design of Experiments for CMI Technologies
 - **Event**: Critical Material Innovation Hub Conference, Colorado, USA
