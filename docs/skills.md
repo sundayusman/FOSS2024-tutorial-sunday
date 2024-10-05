@@ -8,4 +8,4 @@
 
 **Experience**
 ---
-- Research Assistant (over 3 years), University of Arizona, USA
+- Research Assistant (3+ years), University of Arizona, USA
