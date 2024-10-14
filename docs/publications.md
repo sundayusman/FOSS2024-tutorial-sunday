@@ -1,4 +1,4 @@
-You can view my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=pcMH0J0AAAAJ&hl=en).
+You can view my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=pcMH0J0AAAAJ&hl=en). and [Research Gate](https://www.researchgate.net/profile/Sunday-Usman-4).
 
 **Selected Publications**
 ---
