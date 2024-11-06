@@ -1,5 +1,5 @@
-# Waste Generation Map
+# Waste Conversion Sites
 
-This map shows municipal waste generation across the United States based on state data.
+This map shows the tonnage of municipal solid waste (MSW) shipped to the largest Material Recovery Facilities (MRFs) in North America.
 
 <iframe frameborder="0" style="width:100%; height:500px;" src="//www.zeemaps.com/pub?group=4240042"></iframe>
