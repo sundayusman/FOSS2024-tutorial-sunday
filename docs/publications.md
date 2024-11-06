@@ -9,5 +9,9 @@ You can view my full list of publications on [Google Scholar](https://scholar.go
 - Leveraging artificial intelligence in vaccine development: A narrative review *Journal of Microbiological Methods* (2024)
   
 - Designing profitable supply chains for lithium-ion battery recycling in the United States *Clean Technologies and Recycling* (2024)
+
+- Metal and metal oxide nanomaterials for heavy metal remediation: novel approaches for selective, regenerative, and scalable water treatment *Frontiers in Nanotechnology* (2024)
+
+- Phage Therapy: A Targeted Approach to Overcoming Antibiotic Resistance *Microbial Pathogenesis* (2024)
   
 - A GIS-AHP approach for evaluating site suitability for solar power plant: a case study of Ewekoro LGA., Nigeria *Nigerian Journal of Technology* (2022)
